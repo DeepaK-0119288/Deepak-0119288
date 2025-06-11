@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/Deepak-0119288">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-0119288&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top Languages" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=munishwar001&show_icons=true&theme=radical&layout=compact&hide_border=true" />
   </a>
 </p>
 
