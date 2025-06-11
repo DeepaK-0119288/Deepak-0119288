@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello, I’m Deepak 👋</h1>
 
-**MERN Stack Developer | Coding Enthusiast**
+**Software Engineer | Code Crafter | MERN Stack Developer | Coding Enthusiast**
 
 - 🌍 I'm based in **India**  
 - 🧠 Currently learning **TypeScript**  
@@ -32,6 +32,15 @@
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code"/></a>
   <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" alt="Sublime Text"/></a>
 </p>
+
+---
+
+## 🌟 About Me
+- 🎓 Pursuing *Bachelor of Computer Applications*  
+- 💻 Love crafting with *HTML, CSS, JS, C, C++*  
+- 🎮 Fun Fact: I’m a *Coding Gamer* – I debug code and dominate leaderboards!  
+- 📧 Reach me at: *kalramunishwar@gmail.com*  
+- 🌱 Currently exploring *web development, algorithms, and game dev*  
 
 ---
 
