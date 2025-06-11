@@ -36,10 +36,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Pursuing *Bachelor of Computer Applications*  
-- 💻 Love crafting with *HTML, CSS, JS, C, C++*  
+- 🎓 Pursuing *Bachelor of Computer Applications* at  **CodeQuotient School of Technology**
+- 💻 Love crafting with **MERN, TypeScript, HTML, CSS, JS, C, C++, Java**  
 - 🎮 Fun Fact: I’m a *Coding Gamer* – I debug code and dominate leaderboards!  
-- 📧 Reach me at: *deeking0123@gmail.com  
+- 📧 Reach me at: *deeking0123@gmail.com*  
 - 🌱 Currently exploring *web development, algorithms, and game dev*  
 
 ---
