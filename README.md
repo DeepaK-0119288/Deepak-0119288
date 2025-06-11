@@ -39,7 +39,7 @@
 - 🎓 Pursuing *Bachelor of Computer Applications*  
 - 💻 Love crafting with *HTML, CSS, JS, C, C++*  
 - 🎮 Fun Fact: I’m a *Coding Gamer* – I debug code and dominate leaderboards!  
-- 📧 Reach me at: *kalramunishwar@gmail.com*  
+- 📧 Reach me at: *deeking0123@gmail.com  
 - 🌱 Currently exploring *web development, algorithms, and game dev*  
 
 ---
